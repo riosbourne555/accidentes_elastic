@@ -16,7 +16,7 @@
 
 
 ##  Estructura de la aplicación
-1. Base de datos: base de datos MongoDB NoSQL para almacenar y recuperar datos.
+1. Base de datos: Elasticsearch (NoSQL) para almacenar y recuperar datos.
 2. Capa RestController: para controlar solicitudes y respuestas.
 3. Capa de repositorio: para almacenar y recuperar datos de la base de datos.
 4. Cliente: el cliente que desea acceder al recurso API.
@@ -24,7 +24,7 @@
 
 A continuación se muestra el diagrama de la arquitectura tipo API Rest de la aplicación.
 
-![alt text](https://github.com/riosbourne555/accidentes_elastic/tree/master/src/main/resources/img/spring-boot-elasticsearch.png)
+![alt text](https://github.com/riosbourne555/accidentes_elastic/blob/master/src/main/resources/img/spring-boot-elasticsearch.png)
 
 # A continuación se muestran las 5 consultas y sus endpoint respectivos:
 
