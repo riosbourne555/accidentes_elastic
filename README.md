@@ -45,4 +45,4 @@ A continuación se muestra el diagrama de la arquitectura tipo API Rest de la ap
     * endpoint: http://localhost:7070/api/DistanciaPromedio
 
 
-## grupo del proyecto: Cristian Emmanuel Rios, Emmanuel Portugal.
+### Integrantes del proyecto: Cristian Emmanuel Rios, Emmanuel Portugal.
