@@ -30,7 +30,7 @@ A continuación se muestra el diagrama de la arquitectura tipo API Rest de la ap
 
 1. Devolver todos los accidentes ocurridos entre 2 fechas dadas
     * endpoint: http://localhost:7070/api/from/{fecha1}/to/{fecha2}
-    # Formato de Fechas: {yyyy-MM-dd HH:mm:ss)
+    #### *Formato de Fechas: {yyyy-MM-dd HH:mm:ss)
 
 2. Determinar las condiciones más comunes en los accidentes (condiciones climáticas)
     * endpoint: http://localhost:7070/api/WeatherCondition
